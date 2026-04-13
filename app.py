@@ -14,11 +14,20 @@ import joblib
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
-# Download NLTK data on startup
-nltk.download("punkt", quiet=True)
-nltk.download("wordnet", quiet=True)
-nltk.download("stopwords", quiet=True)
-nltk.download("punkt_tab", quiet=True)
+try:
+    nltk.data.find("tokenizers/punkt")
+except LookupError:
+    nltk.download("punkt")
+
+try:
+    nltk.data.find("corpora/wordnet")
+except LookupError:
+    nltk.download("wordnet")
+
+try:
+    nltk.data.find("corpora/stopwords")
+except LookupError:
+    nltk.download("stopwords")
 
 app = Flask(__name__)
 CORS(app)
@@ -28,10 +37,18 @@ stop_words = set(stopwords.words("english"))
 
 # Load models
 BASE = os.path.dirname(os.path.abspath(__file__))
-chatbot_model  = joblib.load(os.path.join(BASE, "model", "chatbot_model.pkl"))
-career_model   = joblib.load(os.path.join(BASE, "model", "career_model.pkl"))
-label_encoder  = joblib.load(os.path.join(BASE, "model", "label_encoder.pkl"))
-course_reasons = pd.read_csv(os.path.join(BASE, "model", "course_reasons.csv"))
+try:
+    chatbot_model  = joblib.load(os.path.join(BASE, "model", "chatbot_model.pkl"))
+    career_model   = joblib.load(os.path.join(BASE, "model", "career_model.pkl"))
+    label_encoder  = joblib.load(os.path.join(BASE, "model", "label_encoder.pkl"))
+    course_reasons = pd.read_csv(os.path.join(BASE, "model", "course_reasons.csv"))
+
+    with open(os.path.join(BASE, "model", "intents_dict.pkl"), "rb") as f:
+        intents_dict = pickle.load(f)
+
+except Exception as e:
+    print("MODEL LOAD ERROR:", e)
+    raise
 
 with open(os.path.join(BASE, "model", "intents_dict.pkl"), "rb") as f:
     intents_dict = pickle.load(f)
