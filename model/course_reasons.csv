@@ -1,0 +1,99 @@
+primary_course,recommended_courses,reason
+Python,"Python,HTML/CSS,MERN Stack",Python is the best first language; MERN gives full-stack web skills for high-demand jobs
+Python,"Python,Data Science,SQL",Data science is a high-paying field; Python and SQL are essential foundations
+Core Java,"Core Java,Spring Boot,SQL",Java is enterprise-standard; Spring Boot for backend development
+Embedded Systems,"Embedded Systems,IoT,Python",ECE students can combine hardware and software for IoT careers
+Machine Learning,"Machine Learning,Deep Learning,Python",ML skills are in high demand; Python is the primary tool
+Digital Marketing,"Digital Marketing,Advanced Excel,UI/UX",Creative background suits digital marketing; Excel for analytics
+Advanced Excel,"Advanced Excel,SQL,Power BI,Data Analytics",Commerce background with data skills = business analyst role
+Python,"Python,Web Development,SQL",Python is easiest for science grads to start IT career
+Node.js,"Node.js,MongoDB,Docker,AWS",Adding backend and DevOps to React skills = full-stack premium
+Laravel,"Laravel,REST API,Docker",Laravel is PHP's top framework; API skills + Docker = modern backend
+Python,"Python,Machine Learning,Power BI,Tableau",ML skills + existing analytics = data scientist career upgrade
+Advanced Excel,"Advanced Excel,SQL,Power BI,Data Analytics",MBA + data skills = high-value business analyst role
+Python,"Python,Data Science,SQL",Python and data science are best for banking sector tech transition
+AutoCAD Advanced,"AutoCAD Advanced,SolidWorks,CATIA",Mechanical engineers need advanced CAD and 3D modeling
+AutoCAD,"AutoCAD,GIS Mapping,Project Management",Civil engineers benefit from CAD mastery and project tools
+Advanced Excel,"Advanced Excel,Digital Marketing,UI/UX",Teachers can expand to ed-tech and content creation
+Machine Learning,"Machine Learning,Deep Learning,NLP",Python devs transitioning to AI/ML - natural progression
+AWS,"AWS,Azure,DevOps,Kubernetes",Sysadmins moving to cloud - best career upgrade in IT
+Digital Marketing,"Digital Marketing,SEO,Content Strategy",Writers can become highly-paid digital marketers with tech skills
+Flutter,"Flutter,React Native,Dart",Flutter is the future of cross-platform; adds iOS capability
+Python,"Python,IoT,Embedded Systems,Cloud IoT",ECE to software - IoT connects hardware expertise to software
+Advanced Excel,"Advanced Excel,SQL,Power BI,Data Analytics",HR analytics is the future; data skills multiply HR value
+Node.js,"Node.js,Express.js,MongoDB,REST API",Frontend devs adding backend = full-stack premium salary
+AWS Networking,"AWS Networking,Azure,DevOps,Kubernetes",Network engineers are in demand for cloud infrastructure
+Digital Marketing,"Digital Marketing,Social Media,Google Ads",Sales skills + digital marketing = high-value modern marketer
+Data Structures,"Data Structures,Java,Python,MERN Stack",DSA + web skills = MNC placement package
+Python,"Python,Data Science,SQL",Science background with Python = biotech/healthcare data career
+Selenium,"Selenium,Python,API Testing,DevOps",Test automation = high-demand role; Python + Selenium is standard
+AWS Advanced,"AWS Advanced,Terraform,Kubernetes,DevOps",Advanced AWS + IaC tools = senior cloud architect salary
+AutoCAD 3D,"AutoCAD 3D,SketchUp,BIM,Revit",Architects need 3D modeling and BIM for modern projects
+Docker,"Docker,Kubernetes,AWS,Microservices",Backend devs moving to architecture need containerization skills
+Deep Learning,"Deep Learning,NLP,Computer Vision,TensorFlow",Data scientists growing into AI engineering - specialization pays
+Python,"Python,SQL,Power BI,Data Analytics",Fintech demands financial analysts with Python and data skills
+Networking,"Networking,Cybersecurity,Ethical Hacking,Linux",Cybersecurity is booming; structured path from networking to hacking
+Django,"Django,REST API,PostgreSQL,Docker",Web devs adding Python backend = versatile full-stack developer
+UI/UX,"UI/UX,Digital Marketing,Python Basics",Psychology background suits UX research; start with UX design
+Flutter,"Flutter,Dart,Firebase",Flutter covers Android+iOS in one codebase - most efficient
+AWS IoT,"AWS IoT,Python,MQTT,Cloud Computing",IoT developers need cloud connectivity skills for scale
+Advanced Excel,"Advanced Excel,Power BI,Data Analytics,SQL",Retail managers with data skills can become operations analysts
+Kubernetes Advanced,"Kubernetes Advanced,Terraform,AWS,GitOps",Senior DevOps needs IaC and advanced orchestration
+NLP,"NLP,BERT,Transformers,MLOps",ML engineers specializing in NLP = chatbot/AI product roles
+Data Analytics,"Data Analytics,Python Basics,Health IT","Doctors with data skills = medical informatics, high-growth field"
+Cloud Security,"Cloud Security,AWS Security,CEH Advanced",Security analysts specializing in cloud = premium salary
+Python,"Python,Data Science,SQL,Statistics",Economists adding Python = econometrics and data research roles
+Spring Boot,"Spring Boot,Microservices,Docker,Hibernate",Junior Java dev natural progression to backend architect
+Python,"Python,Data Science,SQL",Pharmacists with data skills = clinical data analyst career
+React.js,"React.js,Redux,TypeScript,Testing",UI developers upgrading to React ecosystem for better roles
+Python,"Python,Django,React,PostgreSQL,Docker",Full-stack Python/React is high in demand at startups
+Python,"Python,Data Science,GIS,Remote Sensing",Agriculture + data science = precision agriculture specialist
+AWS RDS,"AWS RDS,PostgreSQL,MongoDB,Cloud Computing",DBA skills + cloud = cloud database engineer premium role
+React.js,"React.js,JavaScript ES6,CSS Frameworks,Figma","Frontend + design skills = UI/UX developer, good starting package"
+Digital Marketing,"Digital Marketing,Data Analytics,UI/UX",Legal professionals with tech skills = legal tech consultant
+Flutter,"Flutter,REST API,Firebase,Node.js",Android devs adding Flutter + backend = full-stack mobile engineer
+Data Analytics,"Data Analytics,Excel,Power BI",Social workers with data skills can measure and present impact
+Apache Spark,"Apache Spark,Kafka,Hadoop,AWS",Python devs moving to data engineering - big data pipeline skills
+Multi-Cloud,"Multi-Cloud,Terraform,Kubernetes,FinOps","Architects need IaC, multi-cloud, and cost optimization"
+Data Analytics,"Data Analytics,Excel,Digital Marketing",Hospitality + data = revenue management specialist
+Android Development,"Android Development,Kotlin,Firebase,REST API",Android with Firebase + API = production-ready mobile app skills
+Deep Learning,"Deep Learning,TensorFlow,Signal Processing AI","Signal processing + DL = radar, medical imaging AI specialist"
+Digital Marketing,"Digital Marketing,Data Analytics,Excel",Real estate + digital marketing = modern property business
+AWS,"AWS,Docker,Kubernetes,Terraform,DevOps",Linux admins moving to cloud DevOps is most natural transition
+Blockchain,"Blockchain,Solidity,Web3.js,Ethereum",Blockchain development is in demand; start with Solidity
+UI/UX Design,"UI/UX Design,Figma,Adobe XD,Prototyping",Graphic designers transitioning to product/UI design
+Cloud Security,"Cloud Security,DevSecOps,AWS Security,SIEM",Pentesters moving to cloud security architecture
+Python,"Python,Machine Learning,NLP,Deep Learning",AI chatbot dev path: Python → ML → NLP → LLMs
+Mobile App Development,"Mobile App Development,UI/UX,Python Basics",Health tech startup opportunity; start with app basics
+Python,"Python,Machine Learning,Scikit-learn,MLOps",BI devs transitioning to ML = analytical ML engineer
+Flutter,"Flutter,Android,Game Dev,Firebase",Mobile game dev + Flutter for cross-platform game publishing
+Python,"Python,R Language,Data Science,Statistical Analysis",Academic researchers need Python/R for data analysis
+Platform Engineering,"Platform Engineering,Backstage,ArgoCD,Observability",Senior DevOps → Platform Engineering is the current evolution
+LLM Fine-tuning,"LLM Fine-tuning,Transformers,MLOps,LangChain",NLP researchers moving to LLM engineering - highest demand 2024
+Excel,"Excel,Data Analytics,Digital Marketing",Basic tech skills + digital marketing for modern farming business
+Zero Trust Architecture,"Zero Trust Architecture,Cloud Security,Compliance,SIEM",DevSecOps moving to security architecture = premium role
+Digital Marketing,"Digital Marketing,E-commerce,UI/UX,Social Media",Fashion designers building online brand = e-commerce skills
+React Native,"React Native,Expo,Mobile Development,Firebase",React devs adding React Native = mobile development skills
+SQL,"SQL,Apache Spark,Kafka,Python,Airflow",Data engineering is fastest growing field; strong starting salary
+Healthcare IT,"Healthcare IT,Data Analytics,Python Basics",Nurses in health informatics are in high demand in digital health
+RTOS,"RTOS,ARM Cortex,Linux Embedded,Driver Development",Embedded engineers need RTOS and Linux for advanced roles
+Motion Graphics,"Motion Graphics,UI/UX,Digital Marketing",Video editors + marketing skills = full content production
+System Design,"System Design,Microservices,Cloud Architecture,AWS",Full-stack devs becoming architects need design + cloud skills
+Android Kotlin,"Android Kotlin,Firebase,REST API,Material Design",Solid Android path for BCA students seeking mobile dev career
+Advanced Excel,"Advanced Excel,SQL,Power BI,Tally ERP",Accountants adding BI tools = management accountant premium
+Go Language,"Go Language,gRPC,Microservices,Docker",Python devs learning Go for high-performance backend systems
+AWS Fundamentals,"AWS Fundamentals,Linux,Python,Docker",Cloud is the most in-demand skill; AWS certification opens doors
+Project Management PMP,"Project Management PMP,Data Analytics,Digital Transformation",Leadership skills + IT project management = senior IT manager
+Python,"Python,Machine Learning,Statistical Analysis,MLflow",Data analysts upgrading to data scientist with ML skills
+React.js,"React.js,JavaScript,CSS Advanced,Figma",Modern frontend needs React + design skills for good package
+Digital Marketing,"Digital Marketing,E-commerce,Data Analytics,Excel",Business owners need digital marketing + analytics to grow
+MLflow,"MLflow,Kubeflow,Feature Engineering,Model Monitoring",MLOps is specialized; model deployment + monitoring = premium
+Data Structures Algorithms,"Data Structures Algorithms,Java/C++,System Design",DSA + system design = must for FAANG/top MNC placement
+AutoCAD 3D,"AutoCAD 3D,3ds Max,Lumion,BIM Revit",Interior designers need photorealistic 3D rendering tools
+GraphQL,"GraphQL,Apollo,TypeScript,Microservices",Node.js devs specializing in GraphQL = modern API architect
+Java Spring Boot,"Java Spring Boot,Microservices,SQL,Docker",Spring Boot is Java backend standard; microservices = senior role
+Digital Marketing,"Digital Marketing,Video Production,SEO,Analytics",Journalists adding digital skills = content strategist role
+DeFi Protocols,"DeFi Protocols,Layer 2,Web3 Security,Cross-chain",Advanced blockchain - DeFi and cross-chain are the frontier
+Networking Basics,"Networking Basics,Linux,Cybersecurity,Ethical Hacking CEH",Ethical hacking career: network → Linux → security → CEH cert
+Data Analytics,"Data Analytics,Python Basics,Digital Marketing",Librarians can become information architects with tech skills
+Flutter,"Flutter,Dart,Cross-platform,State Management",React Native devs learning Flutter = best of both worlds
